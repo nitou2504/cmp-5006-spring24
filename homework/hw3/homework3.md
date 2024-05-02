@@ -1,5 +1,9 @@
 # DVWA deployment
 
+## Team members:
+* Sthefano Ulloa
+* Kristian Mendoza
+
 ## Resources used
 **Container deployment**
 https://learn.microsoft.com/es-es/training/modules/run-docker-with-azure-container-instances/2-run-aci
