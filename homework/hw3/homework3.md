@@ -7,9 +7,6 @@ https://learn.microsoft.com/es-es/training/modules/run-docker-with-azure-contain
 **Az container commands**
 https://learn.microsoft.com/en-us/cli/azure/container?view=azure-cli-latest#az-container-start
 
-**WAF setup**
-https://www.linickx.com/example-azure-web-application-firewall-waf
-
 **Azure Web Application Firewall**
 https://azure.microsoft.com/en-us/products/web-application-firewall
 
@@ -18,6 +15,11 @@ https://learn.microsoft.com/en-us/azure/application-gateway/overview
 
 **What is Azure Web Application Firewall on Azure Application Gateway?**
 https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/ag-overview
+
+**WAF setup**
+https://www.linickx.com/example-azure-web-application-firewall-waf
+
+
 
 ## Creation of the container instance with DVWA (without WAF)
 
