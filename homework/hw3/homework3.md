@@ -4,12 +4,21 @@
 **Container deployment**
 https://learn.microsoft.com/es-es/training/modules/run-docker-with-azure-container-instances/2-run-aci
 
-**az container commands**
+**Az container commands**
 https://learn.microsoft.com/en-us/cli/azure/container?view=azure-cli-latest#az-container-start
-
 
 **WAF setup**
 https://www.linickx.com/example-azure-web-application-firewall-waf
+
+**Azure Web Application Firewall**
+https://azure.microsoft.com/en-us/products/web-application-firewall
+
+**Azure Application Gateway**
+https://learn.microsoft.com/en-us/azure/application-gateway/overview
+
+**What is Azure Web Application Firewall on Azure Application Gateway?**
+https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/ag-overview
+
 ## Creation of the container instance with DVWA (without WAF)
 
 This instance will be used without the WAF, so it can be access directly with its DNS_NAME_LABEL, which is `DVWA-27433.eastus.azurecontainer.io`
@@ -54,6 +63,37 @@ Note: we should wait a few minutes before starting the container again, otherwis
 ![alt text](Screenshot_20240501_102358.png)
 
 # WAF
+## What is a WAF?
+
+The Azure Web Application Firewall (WAF) is a cloud-based service crafted to shield web applications from common cyber threats like SQL injection and cross-site scripting. It boasts swift deployment, providing a comprehensive view of the environment to effectively counter malicious attacks. Aligned with the Open Web Application Security Project (OWASP) top 10 security risks, Azure WAF ensures robust protection.
+
+Its **main features** include:
+
+* Custom and Managed Rule Sets: Users can create personalized rules or utilize preconfigured managed rule sets to effectively thwart malicious attacks.
+* Real-time Visibility and Security Alerts: Users receive instant insight into their environment, enabling swift responses to potential threats. Monitoring attacks against web applications is facilitated through a real-time WAF log integrated with Azure Monitor.
+* REST API Support: Full support for REST APIs allows for the automation of DevOps processes, streamlining security management.
+* Operating within the Azure Application Gateway framework, Azure WAF functions as a layer 7 web traffic load balancer, enabling sophisticated routing decisions based on attributes like URI path and host headers.
+
+## How does it work?
+
+Utilizing the Core Rule Set (CRS) from OWASP, Azure WAF's underlying engine inspects incoming traffic to detect potential threats. Users can configure WAF policies and associate them with application gateways, ensuring granular protection for individual web applications.
+
+**Key capabilities** of Azure WAF include:
+
+*  Protection against common web attacks such as SQL injection, cross-site scripting, command injection, and HTTP protocol violations.
+*  Configurable request size limits and exclusion lists for tailored security measures.
+*  Creation of custom rules to address specific application requirements.
+*  Geo-filtering capabilities to restrict access based on geographic location.
+*  Bot mitigation ruleset to defend against automated bot attacks.
+*  Inspection of JSON and XML in request bodies for comprehensive security coverage.
+
+Azure WAF operates in **two modes**:
+
+* Detection Mode: Monitors and logs threat alerts without blocking incoming requests, facilitating analysis and monitoring of potential security incidents.
+* Prevention Mode: Actively blocks intrusions and attacks detected by the rules, issuing a "403 unauthorized access" exception to the attacker and recording incidents in WAF logs.
+
+Users can configure actions for matched rule conditions, including allowing, blocking, logging, or assigning an anomaly score, providing tailored responses to diverse security threats.
+
 
 ## WAF setup
 There are several resources we need to set up in order to deploy a web aplication (such as DVWA) with WAF enabled. Also all of these resources are under the same resource group we created earlier (CSEC):
