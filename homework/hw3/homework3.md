@@ -203,3 +203,30 @@ Similar to the command injection, we tried to inject SQL and was blocked by the 
 
 In this case there are 6 rules that matched our query as an injection attack, giving us a higher anomally score and thus blocking the request:
 ![alt text](Screenshot_20240501_122747.png)
+
+### XSS (Reflected)
+
+We also tried to perform a reflected XSS attack and was blocked by the WAF:
+![alt text](Xss.png)
+![alt text](Xss_denegated.png)
+
+In this case we have 7 rules that matched our query as a reflected XSS attack, giving us a higher anomally score and thus blocking the request:
+
+![alt text](Xss_logs.png)
+
+### Content Security Policy (CSP)
+We can also set up a Content Security Policy to prevent XSS attacks.  
+We charged a link to a site with malicious code:
+![alt text](CPS.png)
+
+The site has this code:
+```html
+<script>alert("hacked");"</script>
+``` 
+![alt text](CSP_0.png)
+
+And the WAF blocked it:
+![alt text](CPS_2.png)
+
+In the logs we can see that WAF blocked the request:
+![alt text](CSP3.png)
