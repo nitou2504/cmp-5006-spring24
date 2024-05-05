@@ -54,6 +54,8 @@ Please refer to the following articles in the [articles cited](articles_cited.md
 
 **Article 470** prohibits recording personal communications without prior knowledge and authorization from the involved parties, except as permitted by law. Illegally obtained information holds no legal validity. Risks, damages, and losses resulting from forced information disclosure are attributable to the initiator, who must provide full reparations. Its scope is to protect individuals' privacy rights, ensuring legal compliance and accountability for unauthorized recording or disclosure of personal communications, safeguarding against privacy violations and ensuring appropriate restitution for damages.
 
+**Article 475** governs the retention, opening, and examination of correspondence and documents,electronic or physical, declaring them inviolable except when authorized by the Constitution or this Code. It allows judges to authorize prosecutors to retain, open, and examine correspondence with sufficient evidence for investigation. Prior notification is required for opening correspondence related to an offense, with confidentiality ensured and witnesses present if necessary. Documents are added to the case if relevant, otherwise returned. Decryption or translation is mandated for coded or foreign-language documents.
+
 **Article 476** regulates the interception of communications or computer data, requiring a reasoned request from the prosecutor to the judge, based on relevant indications for the investigation's purposes. The judge determines the intercepted communication and the duration, up to ninety days, extendable once for ninety days or up to six months for organized crime cases. Information obtained is used solely for authorized processes, with an obligation of secrecy. Any discovered offenses prompt immediate investigation. Intercepting data transmission through telecommunications services requires judicial authorization, respecting professional and religious secrecy. Only pertinent conversations are transcribed, and irrelevant data are deleted, supervised by the judge. Telecom service providers and intercepting personnel must maintain confidentiality except in court. Information storage must comply with legal requirements. Intercepting communications violating children's rights or exacerbating violence is prohibited.
 
 **Article 477.1** governs data preservation, allowing the prosecutor to order natural or legal persons to preserve specific computer data without judicial authorization if there are grounds to suspect vulnerability to loss or modification. This preservation lasts up to ninety days, extendable equally if grounds persist. The National Police can request preservation in flagrant crimes, with notification to the prosecutor within eight hours. Recipients must preserve data immediately, maintaining confidentiality under penalty of criminal liability. Communication service providers must inform issuing authorities if communication involves other providers, facilitating data conservation.
@@ -94,8 +96,25 @@ Please refer to the following articles in the [articles cited](articles_cited.md
 
 ## 4.	What kind of evidence could the persecutors use to incriminate someone with this kind of crime?
 
+ 
+Persecutors can employ various legal mechanisms outlined in the Comprehensive Organic Criminal Code to gather evidence and incriminate individuals suspected of cybercrimes. 
+
+Firstly, **Article 476.4** authorizes the interception and recording of computer data transmissions across a wide range of telecommunications services, ncluding fixed, satellite, mobile, and wireless telephony, as well as services like voice calls, SMS, MMS, data transmission, VoIP, email, social networks, video conferencing, multimedia, among others.This allows prosecutors to monitor digital communications to verify the existence of an offense or identify responsible parties.
+
+Secondly, **Article 477.1** empowers prosecutors to order the preservation of specific computer data without judicial authorization, particularly when there are grounds to suspect the data's vulnerability to loss or modification. This preservation mandate extends to subscriber and traffic data, ensuring the integrity of potential evidence for up to ninety days.
+
+Thirdly, **Article 477.3** grants judges, at the prosecutor's request, the authority to conduct searches, seizures, and accesses of computer systems or data storage devices. Judges can authorize the seizure of physical system components, obtain full data copies, and take actions to render data inaccessible or delete them, facilitating the collection of digital evidence crucial to cybercrime investigations.
+
+Moreover, **Article 477.4** establishes cooperation between national and foreign competent authorities in investigating technology-related crimes and obtaining digital evidence. This cooperation enables prosecutors to request information from foreign authorities in accordance with international agreements and domestic law, enhancing the scope and effectiveness of cybercrime investigations.
+
+Lastly, **Article 477.10** allows for the interception of data transmissions through computer systems located in Ecuador upon request from competent foreign authorities, provided it aligns with international agreements and respects domestic legal procedures. This enables prosecutors to collaborate with foreign counterparts to gather evidence and pursue cybercrime cases across borders.
+
 
 ## 5.	Provide a summary of the Ola Bini's case, and present the main arguments and crimes he was accused of.
+
+
 ## 6.	What is your opinion of the case in general and its outcome?
+
+
 ## 7. How do the terms of services of applications like Whatsapp and TikTok align with the privacy laws in Ecuador? What kind of protections Ecuadorian citizens are guaranteed under the law?
 
