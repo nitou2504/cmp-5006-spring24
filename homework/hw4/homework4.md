@@ -9,6 +9,13 @@
 https://portal.compraspublicas.gob.ec/sercop/wp-content/uploads/2024/04/CÓDIGO_ORGÁNICO_INTEGRAL_PENAL_-_COIP.pdf
 
 
+**Ola Bini es culpable y estará un año en prisión** https://www.primicias.ec/noticias/seguridad/ola-bini-culpable-sentencia-fiscalia-ecuador/
+
+
+**Ola Bini se enfrenta a los esfuerzos de la fiscalia ecuatoriana para anular su absolución en el caso de ciberdelincuencia** https://www.eff.org/es/deeplinks/2024/03ola-bini-faces-ecuadorian-prosecutors-seeking-overturn-acquittal-cybercrime-charge
+
+**Telnet Is Not A Crime: Unconvincing Prosecution Screenshot Leaked in Ola Bini Case**https://www.eff.org/deeplinks/2019/08/telnet-not-crime-unconvincing-prosecution-screenshot-leaked-ola-bini-case
+
 ## 1.- Articles of the constitution and COIP that address the topic of information security and information privacy
 
 Please refer to the following articles in the [articles cited](articles_cited.md) file.
@@ -112,8 +119,30 @@ Lastly, **Article 477.10** allows for the interception of data transmissions thr
 
 ## 5.	Provide a summary of the Ola Bini's case, and present the main arguments and crimes he was accused of.
 
+Ola Bini, a Swedish computer scientist, found himself embroiled in a lengthy legal battle in Ecuador, accused of "attempted unauthorized access to a public computer system." The case dates back to April 2019 when Bini was arrested in Quito while attempting to leave for Japan. His arrest came shortly after Ecuador revoked Julian Assange's asylum at its embassy in London, leading to Assange's subsequent arrest in the UK.
+
+The prosecution alleged that Bini, using his specialized technical knowledge, attempted to access the systems of the state-owned National Telecommunications Corporation (CNT) without authorization. It was claimed that he sought to obtain information from the digital platforms of Petroecuador and the former National Intelligence Secretariat. However, Bini's defense staunchly denied these charges, pointing out various irregularities in the legal process.
+
+The case against Bini was based on the Article 234 of the Comprehensive Organic Criminal Code, which penalizes unauthorized access to computer, telematic, or telecommunications systems. The main proof presented by the prosecution was a grainy image of a telnet session, which they claimed showed Bini attempting to access the CNT's systems. 
+
+The image is the following: ![shot](images/ola-bini-command-line-1.png)
+
+With this image—which the lower court had already ruled as not evidence of criminal activity—and the testimony of an expert to the lower court—who never had access to the devices and systems involved in the alleged intrusion—the prosecutor argued that by connecting to a router, Bini performed a partially unauthorized access in an attempt to breach a system provided by the Ecuadorian national telecommunications company (CNT) to a presidency contingency center.
+
+Luis Enríquez from the Cyber Rights Observatory and Technosociety says that what is visible on the screen is evidence that no system entry occurred. "What we see on the screen is Ola Bini's terminal, and precisely a timeout, meaning the connection was unsuccessful (...) it's like passing by a street, seeing the post office building, staying at the window, and leaving."
+
+The court emphasized the need for solid evidence to prove an alleged cybercrime and deemed the telnet session image presented in Bini's case insufficient for this purpose. The court clarified that images susceptible to alteration do not constitute evidence of cybercrime, as they cannot verify whether the commands illustrated in them were actually executed. 
+
+Key arguments in Bini's defense included the lack of solid evidence to support the allegations of cybercrime. The court ruled that a grainy image of a telnet session, presented by the prosecution, was insufficient to prove unauthorized access. Furthermore, expert testimonies emphasized the need for verifiable digital evidence, which was lacking in the case. In January 2022, a Criminal Guarantees Tribunal of the Pichincha Provincial Court decided to discontinue the proceedings against Bini, but the Prosecutor's Office appealed the ruling
+
+The prosecutors appealed the verdict and returned to court using the same image, which failed to demonstrate any criminal activity. In the hearing on March 26th, the Prosecutor's Office claimed that their expert's analysis of the telnet image demonstrated connectivity with the router. The witness likened it to entering someone's property's yard to see if the property's gate is open or closed. Entering the yard is analogous to connecting to the router, the witness said.
+
+However, no examination was conducted on the supposedly affected systems. The expert's testimony was based on his analysis of a report from CNT: he did not have access to CNT's router to verify its configuration. He did not digitally validate whether the events described in the report actually occurred, and he was never asked to verify the existence of an IP address owned or managed by CNT.
+
+The Provincial Court of Pichincha has determined on April 5th that Ola Bini is guilty of the crime of attempted unauthorized access to a public computer system. The court sentenced him to one year in prison and ordered him to pay a fine of 4 basic salaries. 
 
 ## 6.	What is your opinion of the case in general and its outcome?
+
 
 
 ## 7. How do the terms of services of applications like Whatsapp and TikTok align with the privacy laws in Ecuador? What kind of protections Ecuadorian citizens are guaranteed under the law?
