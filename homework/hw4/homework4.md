@@ -147,3 +147,29 @@ The Provincial Court of Pichincha has determined on April 5th that Ola Bini is g
 
 ## 7. How do the terms of services of applications like Whatsapp and TikTok align with the privacy laws in Ecuador? What kind of protections Ecuadorian citizens are guaranteed under the law?
 
+Under Ecuadorian law, citizens are guaranteed certain protections regarding their personal data and digital privacy. Some of the key provisions that may apply include:
+
+1. **Article 178**: This article addresses privacy violation and penalizes unauthorized access, interception, recording, or dissemination of personal data. It ensures that individuals have control over their personal information and prohibits its unauthorized use.
+
+2. **Article 229**: Prohibits the revealing of data from electronic systems without authorization, aiming to protect privacy and confidentiality in digital communication.
+
+3. **Article 230**: Addresses illegal data interception and penalizes unauthorized access to electronic data. This provision aims to protect digital privacy and ensure the integrity of electronic transactions.
+
+4. **Article 231**: Penalizes electronic transfer of assets without consent, protecting individuals' assets from fraudulent manipulation of digital systems.
+
+5. **Article 470**: Prohibits recording personal communications without authorization, ensuring individuals' privacy rights are protected.
+
+6. **Article 475**: Governs the retention, opening, and examination of correspondence and documents, electronic or physical, declaring them inviolable except when authorized by law. This ensures that individuals' communications are protected from unauthorized access.
+
+7. **Article 476**: Regulates the interception of communications or computer data, requiring judicial authorization based on relevant indications for investigation purposes. This ensures that interceptions are conducted lawfully and with proper oversight.
+
+8. **Article 477**: Provides provisions for data preservation, disclosure, and international cooperation in criminal investigations involving digital content. This ensures that data is handled appropriately and in accordance with legal procedures.
+
+Meta companies and TikTok, like other digital platforms, outline their data handling practices without enough lever of detail. And even though, there are expections per country under their terms of service, Ecuador does not have a specific mention there. 
+
+
+However, some of the relevant articles mentioned before show many ways in which these companies can be liable for misuse or at least be in obligation to facilitate the execution of justice. For example, even though articles **178, 229 and 230** may refer to individuals who access private information of others, it may be applied to companies that do not make clear enough what data is being collected from users, or collect data without aproval of users (mainly because of ignorance). 
+
+Furthermore, if for example their information is leaked and some malicious party was to access and misuse the list of contacts from high profiles in their country as well as their hardware identifying information (according to article **192**) a case could be held against that platform.
+
+Also, other articles like **475, 476 and 477** show that the Ecuadorian justice can request information from these companies for individuals under juridical investigations.
