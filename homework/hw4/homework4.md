@@ -147,6 +147,7 @@ With the case context, we believe that the proof presented by the prosecution wa
 
 The outcome for Ola Bini is concerning, as the court's decision to find him guilty based on insufficient evidence raises questions on how we as civilians can be protected from unjust accusations and irregular legal processes. Furthermore, it seems that the political context surrounding Bini's case, had more weight than the actual evidence presented in the trial.
 
+In conclusion, the case of Ola Bini highlights the absence of digital forensic expertise on the part of the prosecution, the lack of verifiable evidence to support the charges, and the potential for political influence to impact legal proceedings. The outcome of the case is just a reflection of how poorly the Ecuadorian justice system is.
 
 ## 7. How do the terms of services of applications like Whatsapp and TikTok align with the privacy laws in Ecuador? What kind of protections Ecuadorian citizens are guaranteed under the law?
 
