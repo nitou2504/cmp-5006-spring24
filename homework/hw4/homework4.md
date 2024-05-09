@@ -143,6 +143,9 @@ The Provincial Court of Pichincha has determined on April 5th that Ola Bini is g
 
 ## 6.	What is your opinion of the case in general and its outcome?
 
+With the case context, we believe that the proof presented by the prosecution was insufficient to establish his guilt. The reliance on a single grainy image of a telnet session, which did not demonstrate any criminal activity, was a weak foundation for the charges of attempted unauthorized access to a public computer system. And the lack of a deeper investigation into the systems involved, makes us, as information security students, question if the Ecuadorian justice system is fair and reliable when it comes to cybercrimes.
+
+The outcome for Ola Bini is concerning, as the court's decision to find him guilty based on insufficient evidence raises questions on how we as civilians can be protected from unjust accusations and irregular legal processes. Furthermore, it seems that the political context surrounding Bini's case, had more weight than the actual evidence presented in the trial.
 
 
 ## 7. How do the terms of services of applications like Whatsapp and TikTok align with the privacy laws in Ecuador? What kind of protections Ecuadorian citizens are guaranteed under the law?
